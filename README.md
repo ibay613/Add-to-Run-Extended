@@ -1,5 +1,5 @@
 
-# 🏃 AddToRun - Program Alias Manager
+# 🏃 AddToRunExtended - Program Alias Manager
 
 **AddToRun** is a lightweight Windows utility that allows you to create custom "aliases" for your favorite programs. Once an alias is created, you can launch that program instantly from the Windows Run dialog (`Win + R`) by typing your custom keyword.
 
