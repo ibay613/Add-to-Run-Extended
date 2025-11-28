@@ -67,3 +67,7 @@ You are free to use, modify, and distribute this software.
 ***
 
 *Made with AutoIt*
+
+
+<img width="652" height="640" alt="addtorun" src="https://github.com/user-attachments/assets/005f7250-f62f-49ec-ba4f-713b18cc4348" />
+
